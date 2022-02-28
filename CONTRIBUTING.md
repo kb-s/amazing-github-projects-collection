@@ -96,5 +96,11 @@ Now, if you go to your repository (no GitHub), you'll see a `Compare and pull re
 - After some time, your changes will be merged into the main branch of this project (after being reviewed, of course)
 - You'll receive a notification email once it's done.  
 
+**Congratulations!** You've made your first contribution! 🙌🏼
+
+
+## All the best! 🥇
+
+Alternatively, skip all the steps above by using [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/)
 
 ## Thank you for contributing to this project :)  
