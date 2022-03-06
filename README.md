@@ -1,7 +1,7 @@
 # Amazing GitHub Projects Collection
 This repository contains some collection of amazing projects with links to github repos and also project ideas to make something amazing.
 
-**Kindly check the [CONTRIBUTING.md](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/blob/main/contributing.md) file before making any PR.**
+**Kindly check the [CONTRIBUTING.md](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/blob/main/CONTRIBUTING.md) file before making any PR.**
 
 ## 🛡️ License
 
