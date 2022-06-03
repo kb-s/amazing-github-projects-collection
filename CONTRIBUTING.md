@@ -55,7 +55,7 @@ git checkout -b add-aryan-godara
 
 # Step 3. Make the necessary changes to the repository, and commit those changes  
 
-Now open `PROJECTS.md` file in a text editor (I personally us vscode, but you can use any text editor, even notepad haha).  
+Now open `PROJECTS.md` file in a text editor (I personally use vscode, but you can use any text editor, even notepad haha).  
 Then, add the link to your project to the list (anywhere in the middle of the list, or at the bottom).  
 Now save the file.
 
